@@ -1,13 +1,5 @@
 # Selfpaced-FIR
 
-<br />
-<p align="center">
-
-  <h3 align="center">MSOC-HLS project github template</h3>
-  
-</p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -16,10 +8,6 @@
 * [Usage](#usage)
 * [Algorithm](#Algorithm)
 * [References](#References)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -43,22 +31,11 @@ This is a template github repository for hls projects with credits >3.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* build process
+
 
 ## Algorithm
 
 
 ## References
 
-<!-- CONTRIBUTING -->
-## Contributing
 
-
-
-<!-- LICENSE -->
-## License
-
-
-
-<!-- CONTACT -->
-## Contact

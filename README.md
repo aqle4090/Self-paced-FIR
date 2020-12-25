@@ -1,41 +1,19 @@
-# Selfpaced-FIR
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-* [Usage](#usage)
-* [Algorithm](#Algorithm)
-* [References](#References)
-
+# Self-paced-FIR
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a template github repository for hls projects with credits >3.
+This is self-paced learning of FIR implementation.
 
-**Directory structure**
-* **README.md** - introduce the project, algorithm, reference ....
-* **code/**
-  * original - original code from open source if there is 
-  * final (use inline pragma) - include both host and kernel code ※Note: host code must do auto-check
-* **code-opt/** - Note it may have multiple code directories for different code structure, named by code-opt  (opt refer to optimization method, e.g. code-OoO  Out-Of-Order)
-  * ...
-* **testdata/** - include input test data, and output result data
-* **script/** - makefile
-  * ... - Build process shall include a trial-run with result check. 
-* **impl/** - result of the implementation, only the metafile, and report, e.g. vitis summary file, HLS csynth report
-      
-
-
+     
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+Use PYNQ to implement
 
 ## Algorithm
-
+FIR filters are the famous filter design for digital signal application.
+In this self-paced project, 11-tap FIR filter is implemented.
 
 ## References
-
+Parallel Programming for FPGAs
 
